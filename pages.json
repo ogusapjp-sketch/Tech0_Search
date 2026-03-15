@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1,
+    "url": "https://tanaka-intro.netlify.app",
+    "title": "田中太郎の自己紹介",
+    "description": "大手メーカー勤務、DX推進担当として新規事業開発に従事",
+    "keywords": [
+      "DX",
+      "製造業",
+      "新規事業"
+    ],
+    "author": "田中太郎",
+    "created_at": "2025-01-15",
+    "category": "自己紹介"
+  },
+  {
+    "id": 2,
+    "url": "https://suzuki-product.netlify.app",
+    "title": "スマート冷蔵庫プロジェクト",
+    "description": "IoT技術を活用した次世代家電の企画提案",
+    "keywords": [
+      "IoT",
+      "家電",
+      "AI",
+      "データ活用"
+    ],
+    "author": "鈴木花子",
+    "created_at": "2025-01-16",
+    "category": "プロダクト"
+  },
+  {
+    "id": 3,
+    "url": "https://yamamoto-dx.netlify.app",
+    "title": "製造現場DX改革",
+    "description": "工場の生産性を30%向上させたDXプロジェクトの記録",
+    "keywords": [
+      "DX",
+      "製造業",
+      "生産性",
+      "IoT"
+    ],
+    "author": "山本一郎",
+    "created_at": "2025-01-17",
+    "category": "事例"
+  },
+  {
+    "id": 4,
+    "url": "https://sato-ai-business.netlify.app",
+    "title": "AIで変わるビジネスの未来",
+    "description": "ChatGPTを活用した業務効率化の実践事例を紹介するLP",
+    "keywords": [
+      "AI",
+      "ChatGPT",
+      "業務効率化",
+      "DX"
+    ],
+    "author": "佐藤美咲",
+    "created_at": "2025-01-18",
+    "category": "事例"
+  },
+  {
+    "id": 5,
+    "url": "https://nakamura-health.netlify.app",
+    "title": "ヘルスケアDXプラットフォーム",
+    "description": "医療現場にAIを導入して診断精度と業務効率を向上させるサービス",
+    "keywords": [
+      "医療",
+      "AI",
+      "ヘルスケア",
+      "DX"
+    ],
+    "author": "中村健太",
+    "created_at": "2025-01-19",
+    "category": "プロダクト"
+  },
+  {
+    "id": 6,
+    "url": " https://mocchan-room.netlify.app/",
+    "title": "Akimoto Ryoko-12/もっちゃん/秋本亮子の自己紹介",
+    "description": "プライベート：最近の趣味は読書とホットヨガです　ずっと好きなのはカフェオレ＆ショートケーキです/仕事:仕事はSI企業で事業企画やっています。モノを作るのが得意な会社なのでどうしてもプロダクトアウトになってしまいます",
+    "keywords": [
+      "ホットヨガ",
+      "事業企画"
+    ],
+    "created_at": "2026-03-13",
+    "category": "自己紹介"
+  },
+  {
+    "id": 7,
+    "url": "https://6947cfb6df1805f8a59dad30--lovely-clafoutis-0b2132.netlify.app/#top",
+    "title": "Fukagawa Yuko-12/ふかさん/深川裕子",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 8,
+    "url": "https://clinquant-fenglisu-3dd24c.netlify.app/",
+    "title": "Hattori Shion-12/しおち/服部汐音",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 9,
+    "url": "https://dapper-banoffee-7b78b6.netlify.app/",
+    "title": "Ishii Kenji-12/けん/石井賢治",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 10,
+    "url": "https://chic-monstera-349a5b.netlify.app/",
+    "title": "Ishii Saki-12/さき/石井 沙季",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 11,
+    "url": "https://illustrious-salamander-71183f.netlify.app/",
+    "title": "Ito Atsushi-12/あつし/伊藤淳",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 12,
+    "url": "https://ornate-pothos-fdda04.netlify.app/",
+    "title": "Nozawa Yu-12/のず/野澤悠",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 13,
+    "url": "https://non-z-purpose-rev2.netlify.app/",
+    "title": "Oya Mitsuru-12/のん/大谷暢",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 14,
+    "url": "https://heartfelt-gumdrop-6de990.netlify.app/",
+    "title": "Sato Shiori-12/しおり/佐藤栞",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 15,
+    "url": "https://illustrious-parfait-e03375.netlify.app/",
+    "title": "Watanabe Daisuke-12/ブライアン/渡邉大輔",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 16,
+    "url": "https://imaginative-concha-7bb471.netlify.app/",
+    "title": "Yamaguchi Naoki-12/ぐっさん/山口直生",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 17,
+    "url": "https://adorable-paletas-62bbc1.netlify.app/",
+    "title": "Yamamoto Tatsuya-12/とんぺい/山本竜也",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 18,
+    "url": "https://profiletech0.netlify.app/",
+    "title": "Abe Hiromu-12/あべべ/阿部弘夢",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 19,
+    "url": "https://steady-genie-a26d73.netlify.app/",
+    "title": "Gonohe Mayu-12/ごのへ/五戸真優",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 20,
+    "url": "https://dapper-tiramisu-54f607.netlify.app/",
+    "title": "Ishikawa Akiko-12/あきこ/石川亜樹子",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 21,
+    "url": "https://magnificent-twilight-90e24a.netlify.app/",
+    "title": "Izumi Akihiro-12/ずーみん/泉明宏",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 22,
+    "url": "https://morimopage-ver2.netlify.app/",
+    "title": "Mori Momoko-12/モリモ/森 萌々子",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 23,
+    "url": "https://dainty-cassata-1a432a.netlify.app/",
+    "title": "Nakaoki Atsushi-12/おっきー/中沖篤志",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 24,
+    "url": "https://adorable-pithivier-42a36d.netlify.app/",
+    "title": "Ogura Keishi-12/おぐさん/小倉圭史",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 25,
+    "url": "https://kenichi-nakamura-profile-updated.netlify.app/",
+    "title": "Nakamura Kenichi -12/けんちゃん/中村健一",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  },
+  {
+    "id": 26,
+    "url": "https://creative-piroshki-7fcc0d.netlify.app/",
+    "title": "Miyajima Akira-12/みやじ/宮島彰",
+    "description": "",
+    "keywords": [],
+    "created_at": "2026-03-14",
+    "category": ""
+  }
+]
